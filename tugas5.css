@@ -1,0 +1,25 @@
+header{
+  background-color: black;
+  font-size: 15px;
+  text-transform: uppercase;
+}
+
+.menu{
+  color: white;
+}
+
+.slider-div{
+  text-indent: 40px;
+  margin-top: 6px;
+}
+
+p{
+  font-size: 13px;
+}
+
+footer{
+  text-align: center;
+  font-size: 18px;
+  color: white;
+  background-color: black;
+}
